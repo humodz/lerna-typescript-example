@@ -2,11 +2,17 @@
 
 Sample project using Lerna and Typescript
 
-Commands:
+## How to Publish
+
+### Method 1: bump and publish in a single command
 
 ```
-npx lerna run build
-npx lerna version
-npx lerna publish
-npx lerna publish from-package
+npm run lerna publish
+```
+
+### Method 2: using separate commands
+
+```
+npm run lerna version
+npm run lerna publish from-package
 ```
