@@ -28,7 +28,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@humodz/hello-sdk": "^0.1.0"
+    "@humodz/hello-sdk": "*"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",
