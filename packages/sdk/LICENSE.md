@@ -1,0 +1,1 @@
+this is required by `lerna publish`
