@@ -1,3 +1,3 @@
 export function helloSdk() {
-  console.log('hello sdk');
+  console.log('hello sdk!');
 }

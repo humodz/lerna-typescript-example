@@ -1,3 +1,3 @@
 export function helloOtherImport() {
-  console.log('hello other import');
+  console.log('hello other import!');
 }
