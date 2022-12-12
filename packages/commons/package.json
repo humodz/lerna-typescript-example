@@ -1,6 +1,6 @@
 {
   "name": "@humodz/hello-commons",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -28,7 +28,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@humodz/hello-sdk": "^1.0.0"
+    "@humodz/hello-sdk": "^2.0.0"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",
